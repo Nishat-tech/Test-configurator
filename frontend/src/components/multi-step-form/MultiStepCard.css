@@ -1,4 +1,0 @@
-.custom-cursor-not-allowed {
-  cursor: not-allowed !important;
-  pointer-events: auto !important; /* ensures cursor still appears on hover */
-}
